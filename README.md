@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scraping Data
 
 Run the scrape.py file is for scraping the data off steam api. Just enter the game id in the 'appId' variable.
@@ -21,3 +22,6 @@ To tag the data run the tagging.py file
 run the bow.py file
 
 `python bow.py`
+=======
+# ML-Sentiment
+>>>>>>> ecbb4942d2e1a0e11002d07681ea1f03ff6ae6fe
